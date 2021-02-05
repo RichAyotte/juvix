@@ -1381,6 +1381,7 @@ Calculate mutually-recursive groups of definitions.
 ****** ResolveOpenInfo
 - _Relies on_
   + [[Core/Common/Context]]
+  + [[NameSpace]]
   + [[Common/Open]]
   + [[Library]]
   + [[HashMap]]
@@ -1508,6 +1509,7 @@ Calculate mutually-recursive groups of definitions.
 - _Relies on_
   + [[Core/Common/Context]]
   + [[NameSpace]]
+  + [[ResolveOpenInfo]]
   + [[FrontendContextualise/Environment]]
   + [[ModuleOpen/Types]]
   + [[RemoveDo/Types]]
